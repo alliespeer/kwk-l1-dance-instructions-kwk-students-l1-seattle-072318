@@ -1,3 +1,4 @@
 def Gangnam_style
-  puts ""
+  puts "assume the proper stance"
+  
 # Code your methods below
