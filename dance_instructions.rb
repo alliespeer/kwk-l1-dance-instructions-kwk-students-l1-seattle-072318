@@ -1,4 +1,5 @@
 def Gangnam_style
   puts "assume the proper stance"
-  puts "1. "
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
+  puts 
 # Code your methods below
